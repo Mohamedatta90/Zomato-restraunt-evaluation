@@ -1,6 +1,5 @@
 altair==5.4.0
 anyio==4.3.0
-appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 arrow==1.3.0
@@ -8,16 +7,15 @@ asttokens==2.4.1
 async-lru==2.0.4
 attrs==23.2.0
 Babel==2.14.0
-beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1680888073205/work
+beautifulsoup4==4.12.2
 bleach==6.1.0
 blinker==1.8.2
-Brotli @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/brotli-split_1699473013692/work
 cachetools==5.5.0
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1718025014955/work/certifi
+certifi==2024.1.0
 cffi==1.16.0
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
+charset-normalizer==3.1.0
 click==8.1.7
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+colorama==0.4.6
 comm==0.2.2
 contourpy==1.2.0
 cssselect2==0.7.0
@@ -40,8 +38,8 @@ h11==0.14.0
 html5lib==1.1
 httpcore==1.0.5
 httpx==0.27.0
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1701026962277/work
-imbalanced-learn @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/imbalanced-learn_1701819018230/work
+idna==3.4
+imbalanced-learn==0.11.0
 imblearn==0.0
 ipykernel==6.29.4
 ipython==8.23.0
@@ -50,7 +48,7 @@ isoduration==20.11.0
 itsdangerous==2.2.0
 jedi==0.19.1
 Jinja2==3.1.3
-joblib @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/joblib_1699481664681/work
+joblib==1.3.2
 json5==0.9.24
 jsonpointer==2.4
 jsonschema==4.21.1
@@ -68,15 +66,15 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.4
 jupyterlab_widgets==3.0.10
 kiwisolver==1.4.5
-lxml @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/lxml_1699484695217/work
+lxml==4.9.3
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.8.3
 matplotlib-inline==0.1.6
 mdurl==0.1.2
 mistune==3.0.2
-mkl-fft @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_fft_1699473528480/work
-mkl-random @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_random_1699473588250/work
+mkl-fft==1.3.2
+mkl-random==1.3.2
 mkl-service==2.4.0
 mlxtend==0.23.1
 mysql-connector-python==8.2.0
@@ -88,7 +86,7 @@ nest-asyncio==1.6.0
 nltk==3.8.1
 notebook==7.1.2
 notebook_shim==0.2.4
-numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
+numpy==1.26.4
 openpyxl==3.1.2
 outcome==1.3.0.post0
 overrides==7.7.0
@@ -98,7 +96,7 @@ pandocfilters==1.5.1
 parso==0.8.3
 pillow==10.2.0
 platformdirs==4.2.0
-plotly @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/plotly_1699485167176/work
+plotly==5.13.1
 ply==3.11
 prometheus_client==0.20.0
 prompt-toolkit==3.0.43
@@ -114,7 +112,7 @@ Pygments==2.17.2
 Pyomo==6.7.3
 pyparsing==3.1.2
 pyphen==0.15.0
-PySocks @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pysocks_1699473336188/work
+PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-json-logger==2.0.7
@@ -127,13 +125,13 @@ qtconsole==5.5.1
 QtPy==2.4.1
 referencing==0.34.0
 regex==2023.12.25
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+requests==2.31.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==13.7.1
 rpds-py==0.18.0
-scikit-learn @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/scikit-learn_1699496316170/work
-scipy @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/scipy_1699494946351/work/dist/scipy-1.11.3-cp312-cp312-win_amd64.whl#sha256=e55200dbad5ccc0f329d5200e4f3619aa99e558927f65e1f77f70d19831c9b91
+scikit-learn==1.3.0
+scipy==1.11.3
 seaborn==0.13.2
 selenium==4.24.0
 selenium-chromedriver==1.3
@@ -143,16 +141,16 @@ six==1.16.0
 smmap==5.0.1
 sniffio==1.3.1
 sortedcontainers==2.4.0
-soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1693929250441/work
+soupsieve==2.5
 stack-data==0.6.3
 streamlit==1.37.1
-tenacity @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/tenacity_1699483390626/work
+tenacity==8.2.0
 terminado==0.18.1
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+threadpoolctl==3.1.0
 tinycss2==1.3.0
 toml==0.10.2
 tornado==6.4
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
+tqdm==4.65.0
 traitlets==5.14.2
 trio==0.26.2
 trio-websocket==0.11.1
@@ -161,7 +159,7 @@ typing_extensions==4.12.2
 tzdata==2024.1
 ua-parser==0.18.0
 uri-template==1.3.0
-urllib3 @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/urllib3_1699473687359/work
+urllib3==1.26.16
 user-agent==0.1.10
 user-agents==2.2.0
 watchdog==4.0.2
@@ -169,14 +167,13 @@ wcwidth==0.2.13
 weasyprint==62.3
 webcolors==1.13
 webdriver-manager==4.0.2
-webdrivermanager @ file:///home/conda/feedstock_root/build_artifacts/webdrivermanager_1614000758540/work
 webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.4
 wheel==0.41.2
 widgetsnbextension==4.0.10
-win-inet-pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1699472992992/work
+win-inet-pton==1.1.0
 wsproto==1.2.0
-xgboost @ file:///home/conda/feedstock_root/build_artifacts/xgboost-split_1713397725960/work/python-package
+xgboost==1.7.2
 yellowbrick==1.5
 zopfli==0.2.3
