@@ -1,2 +1,2 @@
-joblib @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/joblib_1699481664681/work
-pandas==2.2.1
+joblib
+pandas
